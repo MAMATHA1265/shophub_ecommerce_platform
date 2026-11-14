@@ -1,0 +1,6 @@
+{
+  "name": "ShopHub",
+  "description": "Discover local neighborhood shops and order groceries, fashion, electronics, home goods, beauty, and books online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
